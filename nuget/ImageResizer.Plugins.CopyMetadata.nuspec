@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.CopyMetadata</id>
-		<title>ImageResizer.Plugins.CopyMetadata</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.CopyMetadata</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.CopyMetadata</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -27,7 +27,7 @@ $plugins$
  </description>
 		<tags>ImageResizer Imazen Resizer CopyMetadata metadata exif properties imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		</dependencies>
 	</metadata>
   	<files>

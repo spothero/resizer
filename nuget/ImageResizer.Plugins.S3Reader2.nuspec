@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.S3Reader2</id>
-		<title>ImageResizer.Plugins.S3Reader2 - Serve (and resize) images (and documents) from Amazon S3</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.S3Reader2</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.S3Reader2 - Serve (and resize) images (and documents) from Amazon S3</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -22,8 +22,8 @@ Requires license, see http://imageresizing.net/plugins
 $plugins$</description>
 		<tags>ImageResizer S3Reader Amazon Cloud Imazen Resizer imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
-		  <dependency id="ImageResizer.Storage" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree.Storage" version="[$version$,)" />
 		  <dependency id="AWSSDK.S3" version="[3.1.3,4)" />
 		</dependencies>
 	</metadata>

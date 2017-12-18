@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.DiagnosticJson</id>
-		<title>ImageResizer.Plugins.DiagnosticJson</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.DiagnosticJson</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.DiagnosticJson</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -27,7 +27,7 @@ $plugins$
  </description>
 		<tags>ImageResizer Imazen Resizer DiagnosticJson diagnostic json metadata imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		  <dependency id="Newtonsoft.Json" version="[7.0.1,)"/>
 		</dependencies>
 	</metadata>

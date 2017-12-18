@@ -112,8 +112,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageResizer.Plugins.Licens
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageResizer.Plugins.LicenseVerifier.Tests", "Tests\ImageResizer.Plugins.LicenseVerifier.Tests\ImageResizer.Plugins.LicenseVerifier.Tests.csproj", "{081F4843-C4A2-4C7D-A869-03DD15982A8D}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ImageResizer.CoreFSharp.Tests", "Tests\ImageResizer.TestFSharp\ImageResizer.CoreFSharp.Tests.fsproj", "{841B8ED5-5994-46C9-B81A-74973FB9DE0E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageResizer.ProviderTests", "Tests\ImageResizer.ProviderTests\ImageResizer.ProviderTests.csproj", "{CB2E151D-2E19-4E85-97FD-D0577AD335FE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageResizer.Plugins.TinyCache.Tests", "Tests\ImageResizer.Plugins.TinyCache.Tests\ImageResizer.Plugins.TinyCache.Tests.csproj", "{36FDAE2B-2D37-454C-8381-2D08CAE44083}"
@@ -123,8 +121,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imazen.Profiling", "Plugins\Imazen.Profiling\Imazen.Profiling.csproj", "{35C46578-8BD7-410D-94E9-2AFB11629083}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imazen.Profiling.Tests", "Tests\Imazen.Profiling.Tests\Imazen.Profiling.Tests.csproj", "{DAEE2528-5587-436D-A2EF-2B387CF3260D}"
-EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FakeBuilder.Tests", "Tests\FakeBuilder.Tests\FakeBuilder.Tests.fsproj", "{EF5E7A34-88FA-4E18-A3C0-3B405D9B510F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageResizer.Plugins.PdfiumRenderer", "Contrib\PdfiumRenderer\PdfiumRenderer\ImageResizer.Plugins.PdfiumRenderer.csproj", "{D50A6B07-FE0E-47A8-9F58-2CA4BCBA5F6B}"
 EndProject

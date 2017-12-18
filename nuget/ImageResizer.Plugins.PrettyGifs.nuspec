@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.PrettyGifs</id>
-		<title>ImageResizer.Plugins.PrettyGifs - High-quality GIF and 8-bit PNG encoding plugin</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.PrettyGifs</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.PrettyGifs - High-quality GIF and 8-bit PNG encoding plugin</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -26,7 +26,7 @@ $plugins$
 </description>
 		<tags>ImageResizer PrettyGifs Imazen Resizer gif 8-bit png octree quantization encoding  imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		</dependencies>
 	</metadata>
   	<files>

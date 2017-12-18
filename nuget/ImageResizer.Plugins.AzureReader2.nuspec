@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.AzureReader2</id>
-		<title>ImageResizer.Plugins.AzureReader2 - Process images from the Azure blobstore</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.AzureReader2</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.AzureReader2 - Process images from the Azure blobstore</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -24,8 +24,8 @@ $plugins$
 </description>
 		<tags>ImageResizer Imazen Resizer AzureReader Azure Blob Storage VirtualPathProvider cloud imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
-		  <dependency id="ImageResizer.Storage" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree.Storage" version="[$version$,)" />
 		  <dependency id="WindowsAzure.Storage" version="[6.0,)" />
     		  <dependency id="Microsoft.WindowsAzure.ConfigurationManager" version="[3.1.0,4.0)" />
      		 <dependency id="Newtonsoft.Json" version="[7.0.1,)"/>

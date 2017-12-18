@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.WhitespaceTrimmer</id>
-		<title>ImageResizer.Plugins.WhitespaceTrimmer - Automatically crop whitespace off your images</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.WhitespaceTrimmer</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.WhitespaceTrimmer - Automatically crop whitespace off your images</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -26,7 +26,7 @@ $plugins$
 </description>
 		<tags>ImageResizer whitespacetrimmer trim whitespace product images Imazen resizer imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		  <dependency id="AForge.Imaging" version="[2.2.5,)"/>
 		</dependencies>
 	</metadata>

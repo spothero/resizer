@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.Faces</id>
-		<title>ImageResizer.Plugins.Faces - Human face detection plugin</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.Faces</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.Faces - Human face detection plugin</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -22,7 +22,7 @@ Requires license, see http://imageresizing.net/plugins
 $plugins$</description>
 		<tags>ImageResizer Faces face detection Imazen Resizer imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		  <dependency id="Newtonsoft.Json" version="[7.0.1,)" />
 		  <dependency id="OpenCvSharp-WithoutDll" version="[2.4.10.20160316,)" />
 		</dependencies>

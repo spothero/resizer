@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>ImageResizer.WebConfig</id>
-	<title>ImageResizer Web.Config Installation</title>
+    <id>ImageResizerSpotHeroDrmFree.WebConfig</id>
+	<title>ImageResizerSpotHeroDrmFree Web.Config Installation</title>
     <version>$version$</version>
     <authors>$author$</authors>
     <owners>$owners$</owners>
@@ -22,7 +22,7 @@ $plugins$
 </description>
     <tags>ImageResizer Imazen Resizer Web.Config imaging</tags>
 	<dependencies>
-	  <dependency id="ImageResizer" version="[$version$,)" />
+	  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 	</dependencies>
   </metadata>
   	<files>

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.PsdReader</id>
-		<title>ImageResizer.Plugins.PsdReader - Read and convert PSD source files</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.PsdReader</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.PsdReader - Read and convert PSD source files</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -22,7 +22,7 @@ Requires license, see http://imageresizing.net/plugins
 $plugins$</description>
 		<tags>ImageResizer PsdReader PSD decoding Imazen Rezizer imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		</dependencies>
 	</metadata>
   	<files>

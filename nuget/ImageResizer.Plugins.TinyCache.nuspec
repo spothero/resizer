@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.TinyCache</id>
-		<title>ImageResizer.Plugins.TinyCache - Disk caching for tiny sites</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.TinyCache</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.TinyCache - Disk caching for tiny sites</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -18,7 +18,7 @@ $plugins$
 </description>
 		<tags>ImageResizer TinyCache</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		</dependencies>
 	</metadata>
   	<files>

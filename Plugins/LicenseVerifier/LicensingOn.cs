@@ -8,6 +8,6 @@ namespace ImageResizer.Plugins.LicenseVerifier
 {
     partial class LicenseEnforcer<T>
     {
-        const bool Enforce = true;
+        const bool Enforce = false;
     }
 }

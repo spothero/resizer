@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.PdfRenderer</id>
-		<title>ImageResizer.Plugins.PdfRenderer - Read PDF files like images</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.PdfRenderer</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.PdfRenderer - Read PDF files like images</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -23,7 +23,7 @@ $plugins$
 </description>
 		<tags>ImageResizer PdfRenderer PDF Imazen Resizer  imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		</dependencies>
 	</metadata>
   	<files>

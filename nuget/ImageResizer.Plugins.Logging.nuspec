@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.Logging</id>
-		<title>ImageResizer.Plugins.Logging - Get NLog-based logging for your image requests</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.Logging</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.Logging - Get NLog-based logging for your image requests</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -21,7 +21,7 @@ $plugins$
 </description>
 		<tags>ImageResizer Logging Nlog Imazen Resizer imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		  <dependency id="NLog"  version="[3.2.0,)"/>
 		</dependencies>
 	</metadata>

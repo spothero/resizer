@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.Watermark</id>
-		<title>ImageResizer.Plugins.Watermark - Watermark images dynamically</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.Watermark</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.Watermark - Watermark images dynamically</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -26,7 +26,7 @@ $plugins$
 </description>
 		<tags>ImageResizer Watermark overlay image text resizer Imazen imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		</dependencies>
 	</metadata>
   	<files>

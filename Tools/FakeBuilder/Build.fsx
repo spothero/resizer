@@ -141,12 +141,7 @@ MSBuildDefaults <- setParams MSBuildDefaults
 Target "clean" (fun _ ->
     MSBuild "" "Clean" ["Configuration","Release"] [mainSolution] |> ignore
     MSBuild "" "Clean" ["Configuration","Debug"] [mainSolution] |> ignore
-    
-    MSBuild "" "Clean" ["Configuration","Release"; "Platform","Win32"] [fastScaleSln] |> ignore
-    MSBuild "" "Clean" ["Configuration","Debug"; "Platform","Win32"] [fastScaleSln] |> ignore
-    MSBuild "" "Clean" ["Configuration","Release"; "Platform","x64"] [fastScaleSln] |> ignore
-    MSBuild "" "Clean" ["Configuration","Debug"; "Platform","x64"] [fastScaleSln] |> ignore
-    
+
     CleanDirs [rootDir + fixSlashes("dlls/release")]
     CleanDirs [rootDir + fixSlashes("dlls/debug")]
 )
@@ -154,8 +149,6 @@ Target "clean" (fun _ ->
 Target "build" (fun _ ->
 
     MSBuild "" "Build" ["Configuration","Release"] [mainSolution] |> ignore
-    MSBuild "" "Build" ["Configuration","Release"; "Platform","Win32"] [fastScaleSln] |> ignore
-    MSBuild "" "Build" ["Configuration","Release"; "Platform","x64"] [fastScaleSln] |> ignore
     )
 
 Target "patch_commit" (fun _ ->

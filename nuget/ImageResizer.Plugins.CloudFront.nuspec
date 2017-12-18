@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.CloudFront</id>
-		<title>ImageResizer.Plugins.CloudFront - Allows Amazon CloudFront to cache processed images</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.CloudFront</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.CloudFront - Allows Amazon CloudFront to cache processed images</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -29,7 +29,7 @@ $plugins$
 </description>
 		<tags>ImageResizer Imazen Resizer CloudFront Amazon CDN Cloud imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		</dependencies>
 	</metadata>
   	<files>

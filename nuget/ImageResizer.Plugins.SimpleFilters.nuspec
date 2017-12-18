@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.SimpleFilters</id>
-		<title>ImageResizer.Plugins.SimpleFilters - Grayscale, sepia, transparency, and brightness adjustments</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.SimpleFilters</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.SimpleFilters - Grayscale, sepia, transparency, and brightness adjustments</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -34,7 +34,7 @@ $plugins$
 </description>
 		<tags>ImageResizer SimpleFilters sepia grayscale alpha brightness contrast saturation Imazen Resizer imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		</dependencies>
 	</metadata>
   	<files>

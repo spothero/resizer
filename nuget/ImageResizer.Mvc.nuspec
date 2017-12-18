@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Mvc</id>
-		<title>ImageResizer.Mvc [deprecated - merged with ImageResizer core]</title>
+		<id>ImageResizerSpotHeroDrmFree.Mvc</id>
+		<title>ImageResizerSpotHeroDrmFree.Mvc [deprecated - merged with ImageResizer core]</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -16,7 +16,7 @@
 </description>
 		<tags>ImageResizer Imazen Resizer MVC MvcRoutingShim System.Web.Routing imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		</dependencies>
 	</metadata>
   	<files>

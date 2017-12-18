@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.BatchZipper</id>
-		<title>ImageResizer.Plugins.BatchZipper - Resize and zip multiple images asynchronously</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.BatchZipper</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.BatchZipper - Resize and zip multiple images asynchronously</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -24,7 +24,7 @@ $plugins$
 </description>
 		<tags>ImageResizer Imazen Resizer BatchZipper compress zip folder images archive imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		  <dependency id="DotNetZip.Reduced" version="[1.9.1.8,)"/>
 		</dependencies>
 	</metadata>

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.MongoReader</id>
-		<title>ImageResizer.Plugins.MongoReader - Serve (and resize) images from MongoDB GridFS</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.MongoReader</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.MongoReader - Serve (and resize) images from MongoDB GridFS</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -24,8 +24,8 @@ $plugins$
 </description>
 		<tags>ImageResizer MongoReader Imazen Resizer mongodb gridfs mongo blob cloud imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
-		  <dependency id="ImageResizer.Storage" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree.Storage" version="[$version$,)" />
 		  <dependency id="mongocsharpdriver" version="[2.1.0,)"/>
 		</dependencies>
 	</metadata>

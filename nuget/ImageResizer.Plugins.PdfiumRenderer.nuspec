@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.PdfiumRenderer</id>
-		<title>ImageResizer.Plugins.PdfiumRenderer - Read PDF files like images</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.PdfiumRenderer</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.PdfiumRenderer - Read PDF files like images</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -22,7 +22,7 @@ Requires license, see http://imageresizing.net/plugins
 $plugins$</description>
 		<tags>ImageResizer PdfiumRenderer PDF Imazen Resizer  imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		  <dependency id="PdfiumViewer" version="[2.7.0,3)" />
 		</dependencies>
 	</metadata>

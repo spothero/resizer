@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.FreeImage</id>
-		<title>ImageResizer.Plugins.FreeImage</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.FreeImage</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.FreeImage</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -22,7 +22,7 @@ Requires license, see http://imageresizing.net/plugins
 $plugins$</description>
 		<tags>ImageResizer FreeImage Imazen Resizer imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		</dependencies>
 	</metadata>
   	<files>

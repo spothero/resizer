@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Storage</id>
-		<title>ImageResizer.Storage</title>
+		<id>ImageResizerSpotHeroDrmFree.Storage</id>
+		<title>ImageResizerSpotHeroDrmFree.Storage</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -16,13 +16,11 @@
 		</description>
 		<tags>ImageResizer Imazen Resizer imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		</dependencies>
 	</metadata>
   	<files>
 		<file src="$pluginsdlldir$\ImageResizer.Storage.dll" target="lib\net45" />
-		<file src="$pluginsdlldir$\ImageResizer.Storage.pdb" target="lib\net45" />
 		<file src="$pluginsdlldir$\ImageResizer.Storage.xml" target="lib\net45" />
-		<file src="..\Plugins\ImageResizer.Storage\**\*.cs" target="src" />
 	</files>
 </package>

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>ImageResizer.Plugins.PsdComposer</id>
-		<title>ImageResizer.Plugins.PsdComposer - Edit and dynamically render PSD files</title>
+		<id>ImageResizerSpotHeroDrmFree.Plugins.PsdComposer</id>
+		<title>ImageResizerSpotHeroDrmFree.Plugins.PsdComposer - Edit and dynamically render PSD files</title>
 		<version>$version$</version>
 		<authors>$author$</authors>
 		<owners>$owners$</owners>
@@ -24,7 +24,7 @@ $plugins$
 </description>
 		<tags>ImageResizer PsdComposer Imazen Resizer PSD rendering editing  imaging</tags>
 		<dependencies>
-		  <dependency id="ImageResizer" version="[$version$,)" />
+		  <dependency id="ImageResizerSpotHeroDrmFree" version="[$version$,)" />
 		</dependencies>
 	</metadata>
   	<files>
